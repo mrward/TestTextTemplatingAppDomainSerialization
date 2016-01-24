@@ -1,0 +1,6 @@
+*.suo
+Components
+packages
+obj
+bin
+/*.userprefs
